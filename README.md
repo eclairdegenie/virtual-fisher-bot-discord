@@ -5,13 +5,14 @@ A sophisticated Python-based automation tool designed for "Virtual Fisher on DIS
 **⚠️ DISCLAIMER: This tool is strictly for educational and training purposes only.**
 It was created to demonstrate computer vision and automation concepts. The author encourages users to respect the Terms of Service of Discord when they interact with it.
 
+
 ## Features
 
 - **Human-Like Mouse Movements**: Uses Bezier curves and randomized speeds to simulate real hand movements.
 - **Smart Visual Recognition**: Detects game elements like target buttons, chat inputs, and verification requests using OpenCV and EasyOCR.
 - **Safety Mechanisms**:
-  -**Automatic Captcha Solver**: Attempts to solve basic text-based verification challenges automatically using OCR.
-  -**Auto-Stop on Danger**: Failsafe mechanism that stops the bot if a challenge cannot be solved or if critical keywords (e.g., "admin", "banned") are detected.
+  - **Automatic Captcha Solver**: Attempts to solve basic text-based verification challenges automatically using OCR.
+- **Auto-Stop on Danger**: Failsafe mechanism that stops the bot if a challenge cannot be solved or if critical keywords (e.g., "admin", "banned") are detected.
   - **Remote Control**: Start/Stop the bot remotely via Telegram.
   - **Randomized Intervals**: Variable sleep times to avoid pattern detection.
 - **GUI Interface**: User-friendly control panel to start/stop and adjust settings.
