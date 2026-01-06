@@ -72,6 +72,9 @@ Before running the bot, you **MUST** configure the `config.py` file:
   - `chat_input.png` (The chat bar)
   - `verify_header.png` (The "Verification Required" header text)
   - Save them in the root directory, replacing the existing ones.
+## Notes 
+When the bot detect a captcha ,it wil still try to click on the fish button, this is not a bug, it will only try to solve it when there is no more "fish button" on screen
+It also auto do a /verify regen when there is an error on his precedent verify 
 
 ## Credits
 
