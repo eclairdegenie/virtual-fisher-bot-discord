@@ -1,0 +1,7 @@
+pyautogui
+opencv-python
+pillow
+easyocr
+requests
+customtkinter
+packaging
