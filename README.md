@@ -1,9 +1,9 @@
 # Virtual Fisher Bot (Human-Like)
 
-A sophisticated Python-based automation tool designed for "Virtual Fisher" mechanics. This bot mimics human behavior using randomized movements, reaction times, and intelligent visual recognition to perform fishing tasks while avoiding detection.
+A sophisticated Python-based automation tool designed for "Virtual Fisher on DISCORD" mechanics. This bot mimics human behavior using randomized movements, reaction times, and intelligent visual recognition to perform fishing tasks while avoiding detection.
 
 **⚠️ DISCLAIMER: This tool is strictly for educational and training purposes only.**
-It was created to demonstrate computer vision and automation concepts. The author encourages users to respect the Terms of Service of any platform they interact with.
+It was created to demonstrate computer vision and automation concepts. The author encourages users to respect the Terms of Service of Discord when they interact with it.
 
 ## Features
 
